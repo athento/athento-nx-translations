@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: jenkins
+Build-Jdk: 1.6.0_38
+Hudson-Build-Number: 1
+Hudson-Project: athento-nx-translations
+Hudson-Version: 1.538
+Jenkins-Build-Number: 1
+Jenkins-Project: athento-nx-translations
+Jenkins-Version: 1.538
+Bundle-ManifestVersion: 1
+Bundle-Name: Athento NX Translations
+Bundle-SymbolicName: org.yerbabuena.ecm.athento.event.translations;sin
+ gleton:=true
+Bundle-Version: 1.0
+Nuxeo-Component: OSGI-INF/directories-contrib.xml
+
