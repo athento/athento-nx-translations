@@ -11,8 +11,7 @@ Jenkins-Project: athento-nx-translations
 Jenkins-Version: 1.538
 Bundle-ManifestVersion: 1
 Bundle-Name: Athento NX Translations
-Bundle-SymbolicName: org.yerbabuena.ecm.athento.event.translations;sin
- gleton:=true
+Bundle-SymbolicName: athento-nx-translations
 Bundle-Version: 1.0
 Nuxeo-Component: OSGI-INF/directories-contrib.xml
 
