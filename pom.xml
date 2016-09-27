@@ -3,7 +3,7 @@
   <groupId>org.yerbabuena.ecm.athento</groupId>
   <artifactId>athento-nx-translations</artifactId>
   <name>athento-nx-translations</name>
-  <version>1.6</version>
+  <version>1.5.1</version>
   <description>Translations for Nuxeo labels. 
 </description>
 
